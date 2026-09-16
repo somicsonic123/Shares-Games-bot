@@ -1,13 +1,16 @@
 {
   "name": "shares-games-bot",
   "version": "1.0.0",
-  "description": "A starter Discord bot",
+  "description": "Discord music bot that plays YouTube audio",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
+    "@discordjs/voice": "^0.17.0",
     "discord.js": "^14.17.3",
-    "dotenv": "^16.4.7"
+    "dotenv": "^16.4.7",
+    "ffmpeg-static": "^5.2.0",
+    "ytdl-core": "^4.11.5"
   }
 }
