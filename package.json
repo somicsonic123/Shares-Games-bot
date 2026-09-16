@@ -1,0 +1,13 @@
+{
+  "name": "shares-games-bot",
+  "version": "1.0.0",
+  "description": "A starter Discord bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7"
+  }
+}

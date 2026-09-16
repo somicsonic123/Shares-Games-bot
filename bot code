@@ -1,7 +1,3 @@
-function (run) = testing 
-
-var webhookUrl = "https://api.botghost.com/webhook/1535137021008416819/xr7itw7xbykabjgqkyuei";
-var apiKey = "4b2c435f30e5ea1adee3d5fef09d72a8d89ec753859abd27d4a583845a643020";
-
-var errorWebhookUrl = "https://discord.com/api/webhooks/1537244452110995627/z7KpWnrGTyNx-Tf4soFI8DLtJ4UrKxWpYSm3Pie6MourgujTTn1J7gWbCTZxBgX5uHc";
-  
+// This file used to contain exposed credentials.
+// Credentials were removed. Keep secrets in .env instead.
+// The runnable bot is in index.js.
